@@ -1,0 +1,22 @@
+body{
+  background-color:#6A9113;
+}
+
+.quote-back{
+  margin-top:100px;
+  background-color:#bdc3c7;
+  border-radius: 0 0 10% 10%;
+  height:300px;
+  width:800px;
+}
+p{
+position:relative;
+  text-align:center;
+}
+em{
+  font-size:25px;
+}
+#getQuote{
+  position:relative;
+  left:100px;
+}
